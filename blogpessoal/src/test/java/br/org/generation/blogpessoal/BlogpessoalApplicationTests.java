@@ -1,10 +1,10 @@
-package br.org.generation.hello;
+package br.org.generation.blogpessoal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloworldApplicationTests {
+class BlogpessoalApplicationTests {
 
 	@Test
 	void contextLoads() {
